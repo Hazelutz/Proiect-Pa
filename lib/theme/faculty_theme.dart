@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 class FacultyTheme {
   static const Color primaryNavy = Color(0xFF0F2C59);

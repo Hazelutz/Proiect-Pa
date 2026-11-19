@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'theme/faculty_theme.dart';
 import 'ui/pages/attendance_page.dart';
 import 'ui/pages/create_event_page.dart';
